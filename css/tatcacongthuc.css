@@ -1,0 +1,23 @@
+.btn {
+    font-size: 10px!important;
+    line-height: 0.1!important;
+}
+
+.card-body {
+   padding: 0!important;
+
+}
+
+.dataTable-table th a {
+  
+    width: 90px!important;
+}
+
+.dataTable-table > tbody > tr > td{
+    font-size: 9px;
+
+}
+
+.card-body .hightlight {
+    background-color: #E8E8E8 ;
+}
